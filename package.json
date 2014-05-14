@@ -1,0 +1,23 @@
+{
+  "name": "ParkeMon",
+  "version": "0.0.0",
+  "description": "",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/squadronleader/ParkeMon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/squadronleader/ParkeMon/issues"
+  },
+  "homepage": "https://github.com/squadronleader/ParkeMon",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.2.0"
+  }
+}
