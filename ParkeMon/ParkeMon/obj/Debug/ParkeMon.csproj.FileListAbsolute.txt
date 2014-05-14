@@ -1,0 +1,6 @@
+c:\users\dameinhoffman\documents\visual studio 2013\Projects\ParkeMon\ParkeMon\ParkeMon\bin\ParkeMon.dll.config
+c:\users\dameinhoffman\documents\visual studio 2013\Projects\ParkeMon\ParkeMon\ParkeMon\bin\ParkeMon.dll
+c:\users\dameinhoffman\documents\visual studio 2013\Projects\ParkeMon\ParkeMon\ParkeMon\bin\ParkeMon.pdb
+c:\users\dameinhoffman\documents\visual studio 2013\Projects\ParkeMon\ParkeMon\ParkeMon\obj\Debug\ParkeMon.csprojResolveAssemblyReference.cache
+c:\users\dameinhoffman\documents\visual studio 2013\Projects\ParkeMon\ParkeMon\ParkeMon\obj\Debug\ParkeMon.dll
+c:\users\dameinhoffman\documents\visual studio 2013\Projects\ParkeMon\ParkeMon\ParkeMon\obj\Debug\ParkeMon.pdb
